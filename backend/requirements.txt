@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+transformers
+langchain
+python-dotenv
+requests
+pandas
+PyPDF2
+torch
